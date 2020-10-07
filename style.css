@@ -11,11 +11,11 @@ body {
 }
 
 .navbar .navbar-brand {
-    color: lightslategray;
+    color: #007bff;
 }
 
 .navbar .nav-item .nav-link {
-    color: lightslategray;
+    color: #007bff;
 }
 #section-heading {
     text-align: center;
