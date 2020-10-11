@@ -141,4 +141,24 @@ button:hover {
 
   #footer-section {
       color: lightslategray;
+
+  }
+      /* width */
+  ::-webkit-scrollbar {
+    width: 7.5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #343a40; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: lightslategray; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #007bff; 
   }
